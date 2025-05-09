@@ -1,0 +1,1 @@
+The GitHub push is still asking for credentials. I'm not sure why, as the repository is now public. To ensure you get the code, I'll create a zip file of the project and provide a download link. You can then manually upload it to your GitHub repository.
